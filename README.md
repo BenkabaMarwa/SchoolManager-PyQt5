@@ -6,6 +6,7 @@ This project demonstrates how to build a desktop application with a graphical us
 ---
 
 ## ✨ Features
+
 - 👩‍🎓 Manage students (add, update, delete, view).
 - 👨‍🏫 Manage teachers and staff.
 - 🏫 Organize classes and subjects.
@@ -16,6 +17,7 @@ This project demonstrates how to build a desktop application with a graphical us
 ---
 
 ## 🚀 Technologies Used
+
 - **Python 3**
 - **PyQt5** (GUI)
 - **SQLite3** (Database)
@@ -23,10 +25,11 @@ This project demonstrates how to build a desktop application with a graphical us
 ---
 
 1. Install dependencies:
-
+```bash
 pip install pyqt5
-
+```
 
 2. Run the application:
-
+```bash
 python main.py
+```
