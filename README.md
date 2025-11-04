@@ -36,7 +36,9 @@ python main.py
 ---
 
 ## 🪪 License
+
 This project is licensed under the MIT License – you’re free to use, modify, and share it.
+
 ---
 ## 👩‍💻 Author
 Benkaba Marwa
